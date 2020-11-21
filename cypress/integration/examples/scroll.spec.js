@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("Scroll on page", () => {
 
   it("should open website", () => {

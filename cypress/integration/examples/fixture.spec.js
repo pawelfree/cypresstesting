@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("login with fixture data", () => {
   it("should not login", () => {
     cy.visit("http://zero.webappsecurity.com/login.html", { timeout: 5000 });

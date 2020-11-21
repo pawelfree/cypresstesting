@@ -14,7 +14,6 @@
   "author": "Pawel Dudek",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^5.6.0",
-    "mocha": "^8.2.1"
+    "cypress": "^5.6.0"
   }
 }

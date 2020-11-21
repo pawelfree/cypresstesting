@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("screenshot", () => {
 
   it("should open website", () => {

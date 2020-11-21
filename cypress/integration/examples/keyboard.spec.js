@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("keyboard simulation", () => {
   it("should submit searchbox", () => {
     cy.visit("http://zero.webappsecurity.com/index.html", { timeout: 5000 });

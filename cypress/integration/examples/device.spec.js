@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("device spec", () => {
 
   it('720p', () => {

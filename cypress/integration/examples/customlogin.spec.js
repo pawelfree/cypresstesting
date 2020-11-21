@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("should custom login", () => {
 
   it("should fill username", () => {

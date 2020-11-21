@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("login", () => {
 
   it('should change time', () => {

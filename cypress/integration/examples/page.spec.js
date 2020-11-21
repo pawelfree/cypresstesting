@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("page title", () => {
 
   it("should get title", () => {

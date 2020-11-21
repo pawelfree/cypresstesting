@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("should test selectbox", () => {
 
   it("should open website", () => {

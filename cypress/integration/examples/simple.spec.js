@@ -1,5 +1,3 @@
-import  { describe, it }  from "mocha";
-
 describe("Browser action", () => {
 
   it("should load url", () => {
