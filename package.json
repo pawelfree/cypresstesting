@@ -1,0 +1,20 @@
+{
+  "name": "cypresstesting",
+  "version": "1.0.0",
+  "description": "Automated cypress software testing",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "Pawel Dudek",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.6.0",
+    "mocha": "^8.2.1"
+  }
+}
